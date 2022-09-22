@@ -28,7 +28,7 @@ spec:
       - name: spec.license.license
         value: "Enterprise"
       - name: spec.storageClass
-        value: "ibmc-block-gold"
+        value: "managed-nfs-storage"
   syncPolicy:
     automated:
       prune: true
